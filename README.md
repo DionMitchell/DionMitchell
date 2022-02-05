@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DionMitchell
+- 👀 I’m interested in minecraft modding and python games
+- 🌱 I’m currently learning java and python
